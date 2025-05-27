@@ -2,6 +2,15 @@
 
 Telegram-бот с использованием `langgraph`
 
+## Установка LLM
+
+https://ollama.com/download
+
+ollama serve
+
+ollama pull llama3
+
+ollama run llama3
 
 ## Установка
 
